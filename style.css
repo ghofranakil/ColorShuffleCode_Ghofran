@@ -1,0 +1,24 @@
+h1{
+  font-family:monospace;
+}
+
+p{
+  font-family:monospace;
+  font-size:14pt;
+}
+
+body{
+  background-color:#FFFFFF;
+}
+
+canvas{
+  float:left;
+  background:#C8C8C8;
+  width:50%;
+  height: 300px;
+}
+
+div{
+  font-size:14pt;
+  font-family:monospace;
+}
